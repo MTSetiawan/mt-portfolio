@@ -45,7 +45,6 @@ Selamat datang di portfolio saya! Saya adalah seorang **Fullstack Developer** ya
 |--------------|-----------|------------|
 | **Movie App** | Aplikasi film dengan Laravel (API) + Flutter (mobile) | Laravel, Flutter |
 | **Tiket Kereta** | Aplikasi pemesanan tiket kereta menggunakan Flask | Python, Flask, HTML |
-| **Food Order App** | Aplikasi pemesanan makanan berbasis web & admin | Next.js, Express, MySQL |
 | **Portfolio Website** | Website pribadi dengan desain responsive | HTML, Tailwind CSS, Vite |
 
 ---

@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Nama Kamu] – Fullstack Web Developer 🚀
+# 👋 Hi, I'm [Muhamad Tegar Setiawan] – Fullstack Web Developer 🚀
 
 Selamat datang di portfolio saya! Saya adalah seorang **Fullstack Developer** yang berfokus pada pengembangan aplikasi web modern menggunakan teknologi seperti **JavaScript, Python, PHP**, serta framework seperti **React, Flutter, Express, Laravel**, dan lainnya.
 

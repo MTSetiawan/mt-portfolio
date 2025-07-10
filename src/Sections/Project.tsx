@@ -14,7 +14,7 @@ const projects: Project[] = [
     title: "Portfolio Website",
     description:
       "Website pribadi yang saya bangun menggunakan React, Vite, dan TailwindCSS.",
-    github: "https://github.com/username/portfolio-website",
+    github: "https://github.com/MTSetiawan/mt-portfolio",
     image: "portfolio.png",
     stack: ["React", "Tailwind", "Typescript"],
   },

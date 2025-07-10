@@ -49,16 +49,4 @@ Selamat datang di portfolio saya! Saya adalah seorang **Fullstack Developer** ya
 
 ---
 
-## 📷 Cuplikan Proyek
 
-_Tambahkan tangkapan layar atau demo GIF dari beberapa proyekmu di sini._
-
----
-
-## 🧾 Cara Menjalankan Beberapa Proyek (Contoh)
-
-```bash
-git clone https://github.com/username/project-name.git
-cd project-name
-npm install
-npm run dev

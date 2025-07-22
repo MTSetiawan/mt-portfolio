@@ -23,7 +23,7 @@ const Hero = () => {
 
         <div className="flex items-center gap-6">
           <a
-            href="CV.MuhamadTegarSetiawan.pdf.pdf"
+            href="CV.MuhamadTegarSetiawan.pdf"
             download
             className="bg-blue-600 text-white px-6 py-2 rounded-md hover:bg-blue-700 transition"
           >

@@ -2,7 +2,10 @@ import { FaGithub, FaInstagram } from "react-icons/fa";
 
 const Hero = () => {
   return (
-    <section className="min-h-screen flex flex-col md:flex-row items-center justify-between px-6 md:px-24 py-12 bg-white text-black">
+    <section
+      className="min-h-screen flex flex-col md:flex-row items-center justify-between px-6 md:px-24 py-12 bg-white text-black"
+      id="hero"
+    >
       {/* Text Section */}
       <div className="flex-1 space-y-6">
         <h1 className="text-4xl sm:text-5xl font-bold">

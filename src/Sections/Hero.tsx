@@ -21,6 +21,7 @@ const Hero = () => {
         <div className="flex items-center gap-6">
           <a
             href="/cv.pdf"
+            download="CV.MuhamadTegarSetiawan.pdf.pdf"
             className="bg-blue-600 text-white px-6 py-2 rounded-md hover:bg-blue-700 transition"
           >
             Download CV

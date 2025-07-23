@@ -26,7 +26,7 @@ const Contact = () => {
         </p>
 
         <a
-          href="mailto:mt.dev022@email.com"
+          href="mailto:mt.dev022@gmail.com"
           className="inline-block bg-gradient-to-r from-blue-600 to-purple-600 text-white px-10 py-4 rounded-full font-semibold hover:from-blue-700 hover:to-purple-700 transition-all duration-300 transform hover:scale-105 hover:shadow-2xl shadow-blue-500/25 mb-12"
         >
           Kirim Email

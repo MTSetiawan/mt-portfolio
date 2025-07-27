@@ -42,6 +42,14 @@ const Projects = () => {
       image: "image.png",
       stack: ["Unity", "C#"],
     },
+    {
+      title: "MTrain - Aplikasi Pemesanan Tiket Kereta Fullstack",
+      description:
+        "Aplikasi pemesanan tiket kereta api fullstack yang saya buat menggunakan Laravel sebagai backend dan Nextjs sebagai frontend.",
+      github: "https://github.com/MTSetiawan/booking-tiket",
+      image: "Start.png",
+      stack: ["Laravel", "Nextjs", "Mysql"],
+    },
   ];
 
   return (
